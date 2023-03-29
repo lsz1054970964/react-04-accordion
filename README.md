@@ -16,4 +16,5 @@ npm install react-icons --save
 - A web of questions
 - The answers of questions could be shown and hidden by clicking the plus and minus button
 
+## A capture of the web
 <img src ="overview.png" width = 50% height = 50%>
